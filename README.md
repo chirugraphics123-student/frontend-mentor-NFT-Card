@@ -17,7 +17,7 @@ Creator information section
 -----------------------------------------------------------------
 🛠️ Built With
 HTML5
-CSS3 (Flexbox & Grid)
+CSS3 (Flexbox)
 ----------------------------------------------------------------
 🎨 Demo
 Live site link:

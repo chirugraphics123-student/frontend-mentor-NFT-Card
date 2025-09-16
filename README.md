@@ -21,4 +21,4 @@ CSS3 (Flexbox)
 ----------------------------------------------------------------
 🎨 Demo
 Live site link:
-👉 
+👉 https://chirugraphics123-student.github.io/frontend-mentor-NFT-Card/
